@@ -3,7 +3,7 @@
 ## Small tasks
 
 1. [Add missing license](https://gist.github.com/jayvdb/2b0c2fcaa3de89d0a2ecede1c26a9a29)
-2. 12 tasks for [Indonesian high school students](https://github.com/BesutKode/sma2017-tugas)
+2. 18 tasks for [Indonesian high school students](https://github.com/BesutKode/sma2017-tugas)
 3. Small edit to a repository on a 'national' awesome list. e.g. [for Indonesia](https://www.facebook.com/BesutKode/posts/119915452031553)
 
 ## Large tasks
